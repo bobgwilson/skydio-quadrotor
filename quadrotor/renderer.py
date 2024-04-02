@@ -18,7 +18,7 @@ VTK_MODEL = pv.read(Path(__file__).parent.parent / "assets" / "x2.vtk")
 
 # Translation matrix (i.e. [[R, t], [0, 0, 0, 1]])
 def trans_matrix(R: Rot3, t: np.ndarray, scale: float = 100.0) -> np.ndarray:
-    R_vtk = Rot3.from_yaw_pitch_roll(0.0, 0.0, np.pi / 2)  # The object is rotated by default
+    R_vtk = Rot3.from_yaw_pitch_roll(np.pi/4, 0.0, np.pi / 2)  # The object is rotated by default
     return np.block([[(R * R_vtk).to_rotation_matrix() / scale, t.reshape(-1, 1)], [np.zeros(3), 1.0 / scale]])
 
 
