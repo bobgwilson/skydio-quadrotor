@@ -4,9 +4,7 @@ I did a Robotics Software Engineering Internship with Skydio (through Open Avenu
 * Delivered this GitHub repository with Jupyter notebooks that include implementations and derivations
 * Had a blast and learned a lot about writing code in a team environment at a major tech company.
 
-The final notebook is in [5-Controller-Full.ipynb](https://github.com/bobgwilson/skydio-quadrotor/blob/main/5-Controller-Full.ipynb) . I plan on cleaning up this repo soon and cleaning up the code, but for now I have left it as it was at the end of the internship.
-
-the original readme from Skydio is below:
+The final notebook is in [5-Controller-Full.ipynb](https://github.com/bobgwilson/skydio-quadrotor/blob/main/5-Controller-Full.ipynb). I plan on cleaning up this repo soon, removing unnecessary early versions and cleaning up the Python code, but for now I have left it as it was at the end of the internship. The original readme from Skydio is below:
 
 # Open avenues project
 We'll be working using the classes in this repository. You will all maintain a [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) of this repository. This means you'll periodically sync changes from the upstream repository when I upload new assignment notebooks or make other changes. This _also_ means that if you have changes (i.e. you've made some useful updates to rendering tools etc...) that benefit everyone in the group we can get your changes _into_ the upstream repository!
