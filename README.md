@@ -1,9 +1,10 @@
 I did a Robotics Software Engineering Internship with Skydio (through Open Avenues) from Feb 2024 - Apr 2024:
-• Developed a working dynamics simulation and feedback controller of a Skydio quadrotor drone
-• Wrote quality Python code in a team environment using VS Code and packages NumPy, SciPy, and SymForce
-• Delivered a GitHub repository with Jupyter notebooks that include implementations and derivations
+* Developed a working dynamics simulation and feedback controller of a Skydio quadrotor drone
+* Wrote quality Python code in a team environment using VS Code and packages NumPy, SciPy, and SymForce
+* Delivered this GitHub repository with Jupyter notebooks that include implementations and derivations
+* Had a blast and learned a lot about writing code in a team environment at a major tech company.
 
-The final notebook is in 5-Controller-Full.ipynb. I plan on cleaning up this repo soon and cleaning up the code, but for now I have left it as it was at the end of the internship.
+The final notebook is in [5-Controller-Full.ipynb](https://github.com/bobgwilson/skydio-quadrotor/blob/main/5-Controller-Full.ipynb) . I plan on cleaning up this repo soon and cleaning up the code, but for now I have left it as it was at the end of the internship.
 
 the original readme from Skydio is below:
 
